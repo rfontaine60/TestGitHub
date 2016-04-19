@@ -1,2 +1,0 @@
-# TestGitHub
-GitTutorial
